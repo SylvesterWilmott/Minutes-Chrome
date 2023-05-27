@@ -119,10 +119,6 @@ body {
   border-bottom: 1px solid var(--separator);
 }
 
-.log-row:last-child {
-  border-bottom: none;
-}
-
 .table-headers {
   font-weight: 600;
   color: var(--neutral-primary);
