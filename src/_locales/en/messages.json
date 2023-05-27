@@ -1,0 +1,95 @@
+{
+  "EXT_NAME": {
+    "message": "Minutes - Simple time tracker"
+  },
+  "EXT_NAME_SHORT": {
+    "message": "Minutes"
+  },
+  "EXT_DESCRIPTION": {
+    "message": "A simple time tracker that automatically pauses itself when you're idle."
+  },
+  "OPTIONS_SOUNDS": {
+    "message": "Sounds"
+  },
+  "OPTIONS_AUTO_START": {
+    "message": "Activate on startup"
+  },
+  "NEW": {
+    "message": "New session"
+  },
+  "END": {
+    "message": "End session"
+  },
+  "PAUSE": {
+    "message": "Pause session"
+  },
+  "RESUME": {
+    "message": "Resume session"
+  },
+  "PAUSED": {
+    "message": "Paused"
+  },
+  "STATS": {
+    "message": "Session logs"
+  },
+  "SESSION_START": {
+    "message": "Session start"
+  },
+  "SESSION_DURATION": {
+    "message": "Total session time"
+  },
+  "ACTIVE_DURATION": {
+    "message": "Active time"
+  },
+  "IDLE_DURATION": {
+    "message": "Idle time"
+  },
+  "NO_STATS": {
+    "message": "No session logs"
+  },
+  "DELETE_LOGS": {
+    "message": "Clear session logs"
+  },
+  "CONFIRM_DELETE_LOGS": {
+    "message": "This will permanently clear all session logs, are you sure you want to continue?"
+  },
+  "ACTIVE": {
+    "message": "Active"
+  },
+  "IDLE": {
+    "message": "Idle"
+  },
+  "DAYS_SHORT": {
+    "message": "d"
+  },
+  "DAYS_LONG": {
+    "message": "days"
+  },
+  "DAYS_LONG_SINGULAR": {
+    "message": "day"
+  },
+  "HOURS_SHORT": {
+    "message": "h"
+  },
+  "HOURS_LONG": {
+    "message": "hours"
+  },
+  "HOURS_LONG_SINGULAR": {
+    "message": "hour"
+  },
+  "MINUTES_SHORT": {
+    "message": "m"
+  },
+  "MINUTES_LONG": {
+    "message": "minutes"
+  },
+  "MINUTES_LONG_SINGULAR": {
+    "message": "minute"
+  },
+  "ACCELERATOR_NEW": {
+    "message": "Ctrl+Shift+P"
+  },
+  "ACCELERATOR_NEW_MAC": {
+    "message": "\u21E7\u2318P"
+  }
+}
