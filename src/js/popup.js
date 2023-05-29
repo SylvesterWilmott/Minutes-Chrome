@@ -105,7 +105,7 @@ async function onActionClicked (e) {
 }
 
 async function openStats () {
-  const statsPagePath = chrome.runtime.getURL('../html/stats.html')
+  const statsPagePath = chrome.runtime.getURL('../html/logs.html')
   try {
     await tabs.create(statsPagePath)
   } catch (error) {

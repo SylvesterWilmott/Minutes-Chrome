@@ -33,12 +33,12 @@ async function renderLogs () {
   })
 
   if ((storedLogs.length === 0) || (storedLogs.length === 1 && storedLogs[0].inProgress === true)) {
-    const container = document.getElementById('statsContainer')
+    const container = document.getElementById('container')
     container.innerHTML = ''
 
     const emptyEl = document.createElement('div')
     emptyEl.classList.add('empty')
-    emptyEl.innerText = chrome.i18n.getMessage('NO_STATS')
+    emptyEl.innerText = chrome.i18n.getMessage('NO_LOGS')
 
     container.appendChild(emptyEl)
     return
