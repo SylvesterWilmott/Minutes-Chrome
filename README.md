@@ -1,5 +1,8 @@
 # Minutes
 
+![Chrome Web Store](https://img.shields.io/chrome-web-store/v/cnhcpioojeefngdncobkfiigpeieombo)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/users/cnhcpioojeefngdncobkfiigpeieombo)
+
 Minutes is a Chrome Extension time tracker that automatically pauses itself when you're idle.
 
 ## Installation
