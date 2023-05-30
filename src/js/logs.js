@@ -22,7 +22,7 @@ async function init () {
 
 function ready () {
   document.body.classList.remove('hidden')
-  document.title = chrome.i18n.getMessage('STATS')
+  document.title = chrome.i18n.getMessage('LOGS_TITLE')
 }
 
 async function renderLogs () {
