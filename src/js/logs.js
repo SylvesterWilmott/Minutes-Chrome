@@ -41,6 +41,11 @@ async function renderLogs () {
     emptyEl.innerText = chrome.i18n.getMessage('NO_LOGS')
 
     container.appendChild(emptyEl)
+
+    // Hide delete logs button
+    const deleteLogsButton = document.getElementById('deleteLogs')
+    deleteLogsButton.style.display = 'none'
+
     return
   }
 
