@@ -1,7 +1,7 @@
 {
   "name": "__MSG_EXT_NAME__",
   "description": "__MSG_EXT_DESCRIPTION__",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "manifest_version": 3,
   "default_locale": "en",
   "icons": {
@@ -23,10 +23,10 @@
   "commands": {
     "toggleOnOff": {
       "suggested_key": {
-        "default": "Ctrl+Shift+P",
-        "mac": "Command+Shift+P"
+        "default": "Ctrl+Shift+U",
+        "mac": "Command+Shift+U"
       },
-      "description": "Toggle extension on/off"
+      "description": "Start/stop timer"
     }
   }
 }
