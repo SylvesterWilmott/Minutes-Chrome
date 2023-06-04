@@ -79,7 +79,7 @@ function registerListeners () {
 }
 
 function onDocumentKeydown (e) {
-  if (e.key === 'p' && e.shiftKey && (e.metaKey || e.ctrlKey)) {
+  if (e.key === 'u' && e.shiftKey && (e.metaKey || e.ctrlKey)) {
     document.getElementById('newSession').click()
   }
 }

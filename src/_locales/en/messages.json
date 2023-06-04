@@ -90,9 +90,9 @@
     "message": "minute"
   },
   "ACCELERATOR_NEW": {
-    "message": "Ctrl+Shift+P"
+    "message": "Ctrl+Shift+U"
   },
   "ACCELERATOR_NEW_MAC": {
-    "message": "\u21E7\u2318P"
+    "message": "\u21E7\u2318U"
   }
 }
