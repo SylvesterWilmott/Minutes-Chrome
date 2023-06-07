@@ -18,6 +18,15 @@ Minutes is a Chrome Extension time tracker that automatically pauses itself when
 2. Update `version` in `manifest.json`.
 3. `npm run build`.
 
+To build for serapate targets:
+
+```
+npm run build chrome
+```
+```
+npm run build edge
+```
+
 ## Usage
 
 Once installed, you can access the extension by clicking the icon in the Chrome toolbar.
