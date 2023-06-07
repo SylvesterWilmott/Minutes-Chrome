@@ -155,3 +155,17 @@ body {
 .table-headers > div:last-child {
   border-right: none;
 }
+
+.edge .button {
+  border-radius: 2px;
+  color: var(--neutral-primary);
+}
+
+.edge .button:hover {
+  background-color: var(--neutral-quaternary);
+}
+
+.edge .button:disabled {
+  color: var(--neutral-secondary);
+  opacity: 0.85;
+}
