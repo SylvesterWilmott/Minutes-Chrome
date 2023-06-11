@@ -47,6 +47,9 @@
   "IDLE_DURATION": {
     "message": "Idle time"
   },
+  "OVERVIEW": {
+    "message": "Overview"
+  },
   "NO_LOGS": {
     "message": "No session logs"
   },
