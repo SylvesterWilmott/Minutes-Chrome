@@ -119,6 +119,14 @@ body {
   border-bottom: 1px solid var(--separator);
 }
 
+.log-row {
+  transition: background-color 0.15s ease;
+}
+
+.log-row:hover {
+  background-color: var(--neutral-quinary);
+}
+
 .table-headers {
   font-weight: 600;
   color: var(--neutral-primary);
